@@ -1,3 +1,4 @@
 Hello world ! 
 I'm using git !
 git is a distributed version control system
+git was created by Linus Torvalds in 2005
