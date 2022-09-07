@@ -1,4 +1,3 @@
 Hello world ! 
 I'm using git !
-ddddd
 git is a distributed version control system
